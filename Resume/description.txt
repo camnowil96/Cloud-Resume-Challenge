@@ -1,0 +1,213 @@
+INFRASTRUCTURE/SYSTEMS ADMIN – CACI | Pentagon
+
+June 2024 – Present
+
+· Provides IT support and troubleshooting across NIPR, SIPR, and JWICS networks, ensuring secure and reliable access to mission-critical systems while adhering to strict DoD security protocols
+
+· Resolves IT hardware and software infrastructure (servers, network, security, etc.) issues using systems analysis techniques and procedures
+
+· Ensures the proper functioning of hardware, software and system specifications
+
+· Analyzes, troubleshoots and resolves issues with IT infrastructure including user systems, servers, storage and network connectivity
+
+· Provides system administration for assigned infrastructure, maintaining security policies and user access controls
+
+· Develops automation scripts to streamline routine IT tasks, enhancing efficiency and reducing manual workload across the office
+
+· Utilizes Microsoft Identity Manager to handle user accounts, configure groups, and monitor endpoints
+
+· Applies security patches and operating system upgrades to ensure the security and integrity of the technical environment
+
+· Plans and supports new infrastructure projects
+
+· Provides technical support and training to end-users
+
+· Configures and optimizes Local Group Policy settings to deploy and manage network resources
+
+· Maintains configuration documentation for assigned infrastructure
+
+· Utilizes ServiceNow ticketing system to document issues and track resolutions
+
+· Collaborates with cross-functional teams to align IT infrastructure with organizational goals and technical requirements
+
+· Installs, maintains, and troubleshoots networks devices and peripherals to include VoIP phones, fat and thin clients, VTC systems, KVM switches, laptops, tablets, printers, etc.
+
+· Conducts root-cause analysis of system and network failures and ensure all solutions are ticketed, documented, and tested
+
+· Managed the upgrade of office systems to Windows 11, ensuring seamless transition and compatibility with existing applications while minimizing user disruption.
+
+IT OPERATIONS ASSOCIATE – ASM Research | Alexandria, VA
+
+April 2024 – June 2024
+
+· Updated Standard Operations Procedures (SOPs); Tactics, Techniques, and Procedures (TTPs); and user Frequently Asked Questions (FAQs)
+
+
+· Provided customer onboarding and offboarding.
+
+
+· Provided account management support.
+
+
+· Processed all IT SM tickets to completion.
+
+
+· Provided 24/7 Tier 1 support for all environments and networks supporting end users.
+
+
+· Routed tickets to the appropriate sustainment teams for Tier 3 support
+
+
+· Performed data-driven analysis of IT SM tickets (e.g. mean time to resolution)
+
+
+· Assisted Cyber Operations with continuous monitoring activities.
+
+
+· Participated in training, testing, and exercises related to incident response and contingency planning. Inspected venues to ensure
+
+
+PROJECT MANAGER – Trace Systems | Stuttgart, DE
+
+July 2022 – December 2023
+
+· Coordinated services for events, such as accommodation, transportation for participants, facilities, catering, signage, displays, special needs requirements, printing and event security.
+
+· Met with clients to understand the purpose of the meeting or event.
+
+· Collaborated with Program Manager on planning the scope of the event, including time, location, and cost.
+
+· Created scope, cost, and schedule baselines to compare project performance throughout the planning process.
+
+· Solicited bids from venues and service providers
+
+· Created contracting documents to include Performance Work Statements, Purchase Descriptions, Quality Assurance Surveillance Plans, etc.
+
+· Performed market research in compliance with government regulations to identify and select vendors
+
+· Inspected venues to ensure that they met the client's requirements.
+
+· Coordinated event services such as rooms, transportation, and food service.
+
+· Monitored event activities to ensure the client and event attendees are satisfied.
+
+· Planned, coordinated and executed visits by foreign delegations at the General/Flag office/equivalent level.
+
+· Coordinated all IT systems and network related support services.
+
+· Updated and managed various needed services and software, routinely conference with service vendors to leverage maximum capacity of current services.
+
+· Traveled as required to provide event planning and support.
+
+
+SYSTEM/NETWORK ADMINISTRATOR EUCOM – FedData Systems | Stuttgart, DE January 2021 – July 2022
+
+· Specialized in installs, configurations, and maintenance of network devices and peripherals, such as desktop and laptop PCs, mobile devices, printers, VoIP phones, and VTCs
+
+· Provided remote and on-site support to government civilian, contractor, U.S. military, foreign military, and foreign and local national users
+
+· Performed manual updates of software and systems as needed
+
+· Produced training manuals for helpdesk that resulted in a 43% increase in performance and a standard of documentation across the board
+
+· Served as ad-hoc support in the implementation, administration, performing of tests, and analyzing of network systems
+
+· Completed root-cause analysis of system and network failures and ensure all solutions were ticketed, documented, and tested
+
+· Created and maintained thorough documentation in the Knowledge Databases for all desktop solutions and troubleshooting instructions based on Information Technology best practices
+
+· Collaborated with the project manager for the planning of the EUCOM 21H2 system upgrade
+
+o Informed end users of the upcoming upgrade
+
+o Tested the 21H2 upgrade image and reported any issues found
+
+o Identified VIP users who use thick clients, scheduled a time that best worked for them to initiate the upgrade after hours, as well as a time for desk-side support the next morning to troubleshoot any issues that arose
+
+o Traveled office-to-office, assisting users when necessary, and reported any issues that weren’t discovered during testing
+
+END USER SYSTEMS ADMINISTRATOR EUCOM – FedData Systems | Stuttgart, DE April 2020 – January 2021
+
+· Supported over 2,000 users accessing EUCOM’s NIPR, SIPR, and Seagull Systems via thin and thick clients
+
+· Troubleshot issues related to Thin Clients, Fat Clients, VoIP phones, VTCs, printers, websites, and various software applications
+
+· Minimized future downtime and service interruptions by leading in-depth investigations and root cause analysis to resolve issues with server performance and security
+
+· Managed user e-mail accounts via DEPO
+
+· Offered and supplied users with advice on reporting suspicious activity, spillage, and any other incident that could compromise the network
+
+· Planned weekly un-migration of EUCOM users from the Office 365 mail service to the DoD Enterprise E-mail service
+
+o Organized the weekly gathering of user data for users who were prematurely migrated from DoD Enterprise E-mail service to Office 365
+
+o Scheduled a cutoff day and time to submit the collected user information to DISA to initiate the un-migration process
+
+o Determined a day/time to begin the provisioning process that would result in minimum downtime for the users
+
+o Followed up with the users after un-migration was complete to confirm full email service restoration
+
+· Delegated projects to other technicians and oversaw their completion
+
+
+SYSTEM ADMINISTRATOR Norfolk Naval Shipyard – Capstone Corporation | Virginia October 2019 – July 2020
+
+· Monitored and operated the control console of a group of minicomputers to process data
+
+· Administered test runs for new or modified programs and assisted in modifying systems or programs
+
+· Conducted independent comprehensive assessments of the management, operational and technical security controls, and control enhancements of an IT system to determine the overall effectiveness of the controls
+
+· Ensured appropriate treatment of risk, compliance, and assurance from internal and external perspectives
+
+· Coordinated with other base agencies to ensure compliance standards were met
+
+
+NAVAL SCIENCE INSTRUCTOR Hampton Roads NROTC | Virginia
+
+May 2018 – July 2019
+
+· Supported the troubleshooting and maintenance of the ROTC’s COVE (Conning Officer Virtual Environment) ship driving system
+
+· Facilitated instruction and training of college students in the areas of naval science, military drill, citizenship, and leadership
+
+· Completed routine maintenance on computers to include installing updates, backing up files, manual malware scans, and reviewing of McAfee logs
+
+· Coordinated two major events for over 170 ROTC students and staff across 5 college campuses
+
+▪ Organized meetings to discuss event requirements with Senior officers
+
+▪ Selected venue and performed site surveys to ensure venue would meet requirements
+
+▪ Secured catering and other vendors essential for executing the event
+
+▪ Acquired student volunteers to delegate tasks and meet staffing needs
+
+▪ Developed a timeline outlining when activities would be completed prior to the event
+
+▪ Created and executed an event schedule, and facilitated the events
+
+▪ Checked in with leadership during the events to ensure all needs were being met
+
+
+DESK-SIDE SUPPORT Norfolk State University – Office of Information Technology March 2017 – May 2018
+
+· Promoted from Help Desk Support after 1 year
+
+· Set up users for University’s two factor authentication with the DUO application to comply with HIPPA standards
+
+· Added user accounts/passwords, groups, permissions, backing-up and restoring data, sharing folders, managing printers, disk management and file systems
+
+· Created, installed, and managed Windows 7 images using Microsoft Deployment Toolkit
+
+
+HELP DESK Norfolk State University – Office of Information Technology
+
+Jan 2016 – March 2017
+
+· Provided technical support to the university’s staff and students via phone and in-person
+
+· Created tickets for end users who needed on site support from the University’s Desk Side Support employees
+
+· Performed various tasks including password reset, unlocking accounts, and escalation of problems to higher tier teams
