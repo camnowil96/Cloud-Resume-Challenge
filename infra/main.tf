@@ -8,7 +8,7 @@ resource "aws_lambda_function" "cloudresumetest-api" {
 }
 
 resource "aws_iam_role" "CloudResume" {
-  name = "CloudResume"
+  name        = "CloudResume"
   description = "Allows Lambda functions to call AWS services on your behalf."
 
   assume_role_policy = <<EOF
@@ -29,32 +29,30 @@ EOF
 }
 
 resource "aws_iam_policy" "iam_policy_for_resume_project" {
-
   name        = "aws_iam_policy_for_terraform_resume_project_policy"
   path        = "/"
   description = "AWS IAM Policy for managing the resume project role"
-    policy = jsonencode(
-    {
-      "Version" : "2012-10-17",
-      "Statement" : [
-        {
-          "Action" : [
-            "logs:CreateLogGroup",
-            "logs:CreateLogStream",
-            "logs:PutLogEvents"
-          ],
-          "Resource" : "arn:aws:logs:*:*:*",
-          "Effect" : "Allow"
-        },
-        {
-          "Effect" : "Allow",
-          "Action" : [
-            "dynamodb:UpdateItem",
-			      "dynamodb:GetItem"
-          ],
-          "Resource" : "arn:aws:dynamodb:*:*:table/cloudresume-test"
-        }
-      ]
+  policy      = jsonencode({
+    Version = "2012-10-17"
+    Statement = [
+      {
+        Action   = [
+          "logs:CreateLogGroup",
+          "logs:CreateLogStream",
+          "logs:PutLogEvents"
+        ]
+        Resource = "arn:aws:logs:*:*:*"
+        Effect   = "Allow"
+      },
+      {
+        Effect   = "Allow"
+        Action   = [
+          "dynamodb:UpdateItem",
+          "dynamodb:GetItem"
+        ]
+        Resource = "arn:aws:dynamodb:*:*:table/cloudresume-test"
+      }
+    ]
   })
 }
 
@@ -82,3 +80,12 @@ resource "aws_lambda_function_url" "url1" {
     max_age           = 86400
   }
 }
+
+resource "aws_lambda_permission" "allow_public_access" {
+  statement_id  = "AllowPublicAccess"
+  action        = "lambda:InvokeFunctionUrl"
+  function_name = aws_lambda_function.cloudresumetest-api.function_name
+  principal     = "*"
+  function_url_auth_type = "NONE"
+}
+
