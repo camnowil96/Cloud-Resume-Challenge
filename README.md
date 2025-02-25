@@ -65,8 +65,8 @@ The following AWS services were used:
 
 1. Clone the repository:   
 ```
-git clone https://github.com/your-repo/cloud-resume
-cd cloud-resume
+git clone https://github.com/camnowil96/Cloud-Resume-Challenge
+cd Cloud-Resume-Challenge
 ```
 2. Initialize and apply Terraform:
 ```
